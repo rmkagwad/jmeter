@@ -1,0 +1,23 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1529742220719,809,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58911,215,1,1,543,0,244
+1529742221529,351,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,347,0,0
+1529742221881,306,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,302,0,0
+1529742222187,361,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59084,215,1,1,306,0,0
+1529742222549,254,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,249,0,0
+1529742222803,409,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,404,0,151
+1529742223213,343,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,302,0,0
+1529742223556,268,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,266,0,0
+1529742223825,341,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,304,0,0
+1529742224167,273,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,269,0,0
+1529742224440,203,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,201,0,0
+1529742224644,452,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59057,215,1,1,202,0,0
+1529742225096,264,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,262,0,0
+1529742225361,674,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,407,0,201
+1529742226040,248,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,244,0,0
+1529742226289,203,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,200,0,0
+1529742226493,343,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,304,0,0
+1529742226837,268,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6814,188,1,1,266,0,0
+1529742227105,716,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59058,215,1,1,613,0,0
+1529742227821,206,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,204,0,0
+1529742228028,715,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58911,215,1,1,412,0,201
+1529742228744,229,Page : calulation-results,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /YEPF/,2701,0,1,1,0,0,0

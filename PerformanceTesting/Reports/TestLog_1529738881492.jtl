@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1529738881518,399,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,6815,188,1,1,336,0,140
+1529738881919,344,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58910,215,1,1,201,0,0
+1529738882263,329,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59201,215,1,1,184,0,0
+1529738882593,273,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,6820,188,1,1,219,0,0
+1529738882867,325,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59053,215,1,1,183,0,0
+1529738883193,319,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,178,0,0
+1529738883513,404,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,6801,188,1,1,342,0,147
+1529738883917,338,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,187,0,0
+1529738884256,341,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,190,0,0
+1529738884599,268,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,6815,188,1,1,203,0,0
+1529738884867,351,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,200,0,0
+1529738885219,354,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59052,215,1,1,189,0,0
+1529738885574,391,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,6815,188,1,1,380,0,179
+1529738885966,467,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58939,215,1,1,199,0,0
+1529738886434,315,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,176,0,0
+1529738886751,192,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,6815,188,1,1,184,0,0
+1529738886943,314,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59053,215,1,1,174,0,0
+1529738887258,315,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,174,0,0
+1529738887574,190,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,6815,188,1,1,183,0,0
+1529738887765,622,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58918,215,1,1,336,0,148
+1529738888388,339,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,189,0,0
+1529738888729,256,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,6815,188,1,1,193,0,0
+1529738888986,446,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,188,0,0
+1529738889433,343,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59057,215,1,1,185,0,0
+1529738889778,352,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,6814,188,1,1,343,0,146
+1529738890131,334,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58910,215,1,1,183,0,0
+1529738890466,334,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,185,0,0
+1529738890802,205,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,6815,188,1,1,197,0,0
+1529738891008,333,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,185,0,0
+1529738891342,263,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,1468,0,1,1,186,0,0

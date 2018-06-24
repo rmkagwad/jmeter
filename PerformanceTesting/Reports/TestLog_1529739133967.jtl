@@ -1,0 +1,163 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1529739134141,367,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,355,0,140
+1529739134509,347,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58907,215,1,1,198,0,0
+1529739134857,334,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58982,215,1,1,190,0,0
+1529739135192,349,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59052,215,1,1,202,0,0
+1529739135543,241,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,231,0,0
+1529739135785,375,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59053,215,1,1,221,0,0
+1529739136161,481,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,338,0,140
+1529739136643,217,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,208,0,0
+1529739136861,383,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,239,0,0
+1529739137245,356,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59169,215,1,1,215,0,0
+1529739137602,289,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,279,0,0
+1529739137892,346,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59201,215,1,1,200,0,0
+1529739138239,533,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58897,215,1,1,378,0,147
+1529739138773,394,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59234,215,1,1,241,0,0
+1529739139168,286,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6890,188,1,1,275,0,0
+1529739139455,440,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59220,215,1,1,257,0,0
+1529739139896,354,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,202,0,0
+1529739140251,346,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6814,188,1,1,336,0,138
+1529739140597,319,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58906,215,1,1,178,0,0
+1529739140917,317,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,176,0,0
+1529739141235,208,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,198,0,0
+1529739141443,316,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,175,0,0
+1529739141760,330,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59106,215,1,1,187,0,0
+1529739142091,317,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59045,215,1,1,177,0,0
+1529739142409,335,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,325,0,137
+1529739142745,321,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58917,215,1,1,178,0,0
+1529739143067,314,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59064,215,1,1,176,0,0
+1529739143382,320,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,188,0,0
+1529739143702,444,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,175,0,0
+1529739144146,319,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,179,0,0
+1529739144466,355,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,345,0,146
+1529739144821,341,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58906,215,1,1,190,0,0
+1529739145163,332,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,187,0,0
+1529739145496,351,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,199,0,0
+1529739145848,198,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,192,0,0
+1529739146046,337,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59058,215,1,1,183,0,0
+1529739146384,330,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,182,0,0
+1529739146715,416,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,356,0,147
+1529739147131,336,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58907,215,1,1,187,0,0
+1529739147468,334,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,185,0,0
+1529739147803,247,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,202,0,0
+1529739148051,355,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,207,0,0
+1529739148407,1584,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,185,0,0
+1529739149992,594,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,333,0,140
+1529739150587,209,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,198,0,0
+1529739150796,322,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59058,215,1,1,178,0,0
+1529739151119,1559,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,179,0,0
+1529739152679,340,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6813,188,1,1,331,0,139
+1529739153020,329,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58906,215,1,1,179,0,0
+1529739153350,337,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59081,215,1,1,192,0,0
+1529739153687,196,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,190,0,0
+1529739153884,322,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59044,215,1,1,176,0,0
+1529739154207,316,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59044,215,1,1,176,0,0
+1529739154523,322,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59052,215,1,1,178,0,0
+1529739154846,402,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,343,0,147
+1529739155248,335,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,186,0,0
+1529739155583,338,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59069,215,1,1,191,0,0
+1529739155922,240,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,193,0,0
+1529739156162,331,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,184,0,0
+1529739156493,353,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59052,215,1,1,205,0,0
+1529739156846,332,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,323,0,137
+1529739157178,316,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,176,0,0
+1529739157495,313,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59064,215,1,1,175,0,0
+1529739157808,315,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,174,0,0
+1529739158124,190,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6814,188,1,1,184,0,0
+1529739158315,316,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,175,0,0
+1529739158632,429,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,175,0,0
+1529739159062,347,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,338,0,144
+1529739159410,331,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58906,215,1,1,183,0,0
+1529739159742,328,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59053,215,1,1,182,0,0
+1529739160071,196,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,190,0,0
+1529739160268,328,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,181,0,0
+1529739160597,331,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59058,215,1,1,180,0,0
+1529739160929,326,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59059,215,1,1,178,0,0
+1529739161256,346,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,337,0,141
+1529739161603,324,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,179,0,0
+1529739161928,335,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59053,215,1,1,184,0,0
+1529739162263,196,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,188,0,0
+1529739162459,327,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59057,215,1,1,182,0,0
+1529739162787,330,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59053,215,1,1,180,0,0
+1529739163117,202,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,195,0,0
+1529739163320,581,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,317,0,138
+1529739163902,321,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59064,215,1,1,179,0,0
+1529739164224,325,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,179,0,0
+1529739164550,197,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,190,0,0
+1529739164748,326,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59098,215,1,1,187,0,0
+1529739165074,317,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,176,0,0
+1529739165392,395,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,338,0,143
+1529739165788,332,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,188,0,0
+1529739166121,668,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,182,0,0
+1529739166790,241,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6807,188,1,1,197,0,0
+1529739167032,325,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,182,0,0
+1529739167358,322,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,178,0,0
+1529739167681,591,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58906,215,1,1,323,0,139
+1529739168274,267,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,199,0,0
+1529739168542,343,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59044,215,1,1,200,0,0
+1529739168886,317,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,177,0,0
+1529739169204,242,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,201,0,0
+1529739169447,318,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59056,215,1,1,176,0,0
+1529739169766,485,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,334,0,148
+1529739170252,200,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,194,0,0
+1529739170453,333,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,184,0,0
+1529739170786,335,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59052,215,1,1,184,0,0
+1529739171122,1777,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59092,215,1,1,198,0,0
+1529739172900,398,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,339,0,144
+1529739173299,335,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58910,215,1,1,185,0,0
+1529739173635,330,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,184,0,0
+1529739173966,236,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,191,0,0
+1529739174203,324,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59063,215,1,1,180,0,0
+1529739174528,331,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59044,215,1,1,180,0,0
+1529739174860,195,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,189,0,0
+1529739175056,590,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,321,0,140
+1529739175647,322,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,176,0,0
+1529739175970,342,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59058,215,1,1,196,0,0
+1529739176313,231,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,186,0,0
+1529739176545,323,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59062,215,1,1,179,0,0
+1529739176868,325,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,179,0,0
+1529739177194,382,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,324,0,139
+1529739177577,319,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58910,215,1,1,176,0,0
+1529739177897,319,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,175,0,0
+1529739178217,229,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6801,188,1,1,185,0,0
+1529739178447,363,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,176,0,0
+1529739178811,418,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59064,215,1,1,175,0,0
+1529739179229,677,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58906,215,1,1,379,0,189
+1529739179906,279,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,224,0,0
+1529739180185,348,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,188,0,0
+1529739180534,343,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59062,215,1,1,190,0,0
+1529739180877,240,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6812,188,1,1,230,0,0
+1529739181118,361,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59059,215,1,1,206,0,0
+1529739181479,615,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58864,215,1,1,338,0,146
+1529739182095,256,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,197,0,0
+1529739182352,348,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59053,215,1,1,199,0,0
+1529739182701,332,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59053,215,1,1,182,0,0
+1529739183036,605,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59044,215,1,1,183,0,0
+1529739183642,389,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,332,0,142
+1529739184032,327,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58911,215,1,1,180,0,0
+1529739184360,328,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,180,0,0
+1529739184689,462,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,188,0,0
+1529739185152,1423,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,195,0,0
+1529739186576,597,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58911,215,1,1,327,0,143
+1529739187174,215,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6796,188,1,1,208,0,0
+1529739187390,336,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59045,215,1,1,191,0,0
+1529739187727,332,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59044,215,1,1,180,0,0
+1529739188061,324,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,178,0,0
+1529739188386,229,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,221,0,0
+1529739188616,586,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,319,0,140
+1529739189203,453,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,178,0,0
+1529739189656,239,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,231,0,0
+1529739189896,362,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,217,0,0
+1529739190259,320,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,1,1,177,0,0
+1529739190580,191,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,184,0,0
+1529739190771,477,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,331,0,146
+1529739191249,325,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59044,215,1,1,181,0,0
+1529739191575,328,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59059,215,1,1,179,0,0
+1529739191903,237,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,190,0,0
+1529739192140,332,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59053,215,1,1,181,0,0
+1529739192473,328,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59058,215,1,1,181,0,0
+1529739192802,394,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6808,188,1,1,336,0,144
+1529739193197,330,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58911,215,1,1,183,0,0
+1529739193528,332,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59045,215,1,1,185,0,0
+1529739193861,225,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,192,0,0
+1529739194087,262,Page : salary-calculator-india,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,1468,0,1,1,184,0,0

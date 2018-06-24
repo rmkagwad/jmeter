@@ -1,0 +1,18 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1529741937193,560,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,1,1,529,0,225
+1529741937765,590,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,590,0,0
+1529741938356,288,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,286,0,0
+1529741938644,341,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59269,215,1,1,306,0,0
+1529741938986,274,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,272,0,0
+1529741939261,411,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6801,188,1,1,406,0,141
+1529741939672,348,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58910,215,1,1,304,0,0
+1529741940021,261,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,260,0,0
+1529741940284,418,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59051,215,1,1,202,0,0
+1529741940703,300,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,296,0,0
+1529741941003,304,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,302,0,0
+1529741941307,722,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58939,215,1,1,409,0,143
+1529741942030,303,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,301,0,0
+1529741942334,605,Page : salary-calculator-india,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,1,1,304,0,0
+1529741942940,314,Page : Home calculatorstack.com,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,6815,188,1,1,312,0,0
+1529741943254,308,Page : calulation-results,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,1865,0,1,1,305,0,0
+1529741943563,412,Page : salary-calculator-india,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group 1-1,text,false,Test failed: text expected to contain /Take Home Salary Calculator India - 2017 / 2018 Tax Calculator/,1468,0,1,1,405,0,138

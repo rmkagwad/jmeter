@@ -1,0 +1,39 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1529574378729,776,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-2,text,true,,58910,215,5,5,488,0,200
+1529574378726,846,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-3,text,true,,58913,215,5,5,494,0,201
+1529574378726,847,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-5,text,true,,58913,215,5,5,497,0,201
+1529574378723,886,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58931,215,5,5,418,0,194
+1529574379506,538,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-2,text,true,,59088,215,5,5,237,0,0
+1529574379573,646,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-3,text,true,,59032,215,5,5,414,0,0
+1529574378728,1797,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-4,text,true,,58913,215,5,5,547,0,201
+1529574379573,1622,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-5,text,true,,58977,215,5,5,414,0,0
+1529574379610,1834,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59057,215,5,5,260,0,0
+1529574380043,1405,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-2,text,true,,59051,215,5,5,266,0,0
+1529574380219,1425,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-3,text,true,,59044,215,5,5,309,0,0
+1529574380525,1373,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-4,text,true,,59051,215,5,5,259,0,0
+1529574381194,746,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-5,text,true,,58910,215,5,5,473,0,238
+1529574381443,742,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,5,5,497,0,203
+1529574381449,782,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-2,text,true,,58911,215,5,5,500,0,197
+1529574381644,837,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-3,text,true,,58910,215,5,5,590,0,227
+1529574381899,834,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-4,text,true,,58910,215,5,5,517,0,257
+1529574382232,507,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-2,text,true,,59069,215,5,5,256,0,0
+1529574381940,1079,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-5,text,true,,59046,215,5,5,292,0,0
+1529574382186,1347,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,5,5,254,0,0
+1529574382739,871,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-2,text,true,,59046,215,5,5,287,0,0
+1529574382733,885,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-4,text,true,,59074,215,5,5,300,0,0
+1529574382481,1192,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-3,text,true,,59045,215,5,5,224,0,0
+1529574383019,839,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-5,text,true,,59069,215,5,5,600,0,0
+1529574383534,953,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,58913,215,5,5,632,0,331
+1529574383619,931,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-4,text,true,,59058,215,5,5,239,0,0
+1529574383673,1371,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-3,text,true,,58911,215,5,5,720,0,195
+1529574383610,1435,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-2,text,true,,58910,215,5,5,783,0,237
+1529574384487,560,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59046,215,5,5,309,0,0
+1529574383858,1448,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-5,text,true,,58910,215,5,5,693,0,386
+1529574385044,491,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-3,text,true,,59039,215,5,5,263,0,0
+1529574384551,997,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-4,text,true,,58892,215,5,5,756,0,494
+1529574385046,1060,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-2,text,true,,59053,215,5,5,292,0,0
+1529574385306,802,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-5,text,true,,59064,215,5,5,261,0,0
+1529574385548,567,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-4,text,true,,59057,215,5,5,280,0,0
+1529574385047,1219,HTTP Request,200,OK,bzm - Concurrency Thread Group 1-1,text,true,,59039,215,5,5,216,0,0
+1529574386107,456,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group 1-2,text,false,,2748,0,5,5,0,0,243
+1529574386115,449,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group 1-4,text,false,,1838,0,5,5,286,0,0
